@@ -45,8 +45,8 @@ python hotel_scraper.py
 Make sure to have the necessary dependencies installed. You can install them using:
 
 ### ---bash/terminal
-pip install selenium
-pip install pygetwindow
+- `pip install selenium`
+- `pip install pygetwindow`
 
 # Now you are ready to enjoy exploring the scraped travel data!
 
